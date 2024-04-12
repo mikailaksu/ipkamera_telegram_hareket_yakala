@@ -1,0 +1,1 @@
+@reboot sleep 30 && bash /home/pi/kamera.sh
